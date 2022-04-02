@@ -1,0 +1,43 @@
+.nav-bar-logo {
+    display: flex;
+    margin-right: auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: white;
+}
+
+nav {
+    display: flex;
+    margin-top: auto;
+    font-size: large;
+    font-family: roboto;
+    color: white;
+}
+
+.nav-bar-logo {
+    object-fit: contain;
+    max-width: 50px;
+ }
+
+ .nav-links{
+     display: flex;
+     gap: 25px;
+ }
+
+body {
+    background-color: #00062B;
+    font-family: "roboto";
+}
+
+.white-text{
+    color: white;
+}
